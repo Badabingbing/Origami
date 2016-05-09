@@ -1,0 +1,68 @@
+html {
+width: 994px;
+}
+
+body {
+margin-left: 25px;
+margin-right: 59px;
+}
+
+h1 {
+font-family: Terminal Dosis;
+font-size: 52px;
+color: #606060;
+}
+
+h2 {
+font-family: Terminal Dosis;
+font-size: 28px;
+color: #505050;
+}
+
+img {
+width: 900px;
+height: 508px;
+}
+
+p {
+font-family: Helvetica Neue;
+font-size: 13px;
+}
+
+#menu {
+height: 59px;
+list-style-type: none;
+position: absolute;
+}
+
+#menu li {
+float: left;
+text-align: center;
+}
+
+#menu li a:link #menu li a:visited{
+display: block;
+text-decoration: none;
+}
+
+#menu .sousMenu {
+display: none;
+list-style-type: none;
+}
+
+#menu .sousMenu li{
+float: none;
+height: 33px;
+}
+
+#menu .sousMenu li a:link {
+display: block;
+text-decoration: none;
+}
+
+#menu .sousMenu li a:hover {
+background-image: none;
+}
+
+#menu li:hover > .sousMenu {display:block;}
+

@@ -21,7 +21,7 @@ body {
 	width: 994px;
 	margin: 0 auto;
 	background-color: white;
-	border: 2px groove #e6f2ff;
+	border: 2px groove rgba(230, 242, 255, 0.7);
 }
 
 .container {

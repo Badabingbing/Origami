@@ -197,10 +197,24 @@ h1 h3 {float: left;}
 	height: 75px;
 	padding-top: 31px;
 	font-weight: normal;
+	margin: 0;
 }
 
 .footer {
 	background-color: #f9fbfa;
 	border-top: 1px solid rgba(204, 230, 255, 0.6);
-	border-bottom: 1px solid rgba(204, 230, 255, 0.6);
+	height: 235px;
+	margin-bottom: 30px;
 }
+
+.colTitles {
+	font-weight: normal;
+}
+
+.cols {
+	width: 24%;
+	display: inline-block;
+	padding-left: 2%;
+	vertical-align: top;
+}
+

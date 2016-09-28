@@ -5,6 +5,8 @@
 
 * {
 	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 body {
@@ -209,6 +211,8 @@ h1 h3 {float: left;}
 
 .colTitles {
 	font-weight: normal;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 .cols {

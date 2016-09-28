@@ -117,6 +117,7 @@ h1 h3 {float: left;}
 	background-color: rgb(93,98,107);
 	color: #f9fbfa;
 	font-weight: bold;
+	margin-top: -1px;
 }
 
 .navbar li > a::after {

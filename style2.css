@@ -114,7 +114,7 @@ h1 h3 {float: left;}
 	
 }
 
-.navbar li > a:hover {
+.navbar li:hover > a {
 	background-color: rgb(93,98,107);
 	color: #f9fbfa;
 	font-weight: bold;

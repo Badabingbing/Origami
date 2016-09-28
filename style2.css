@@ -178,3 +178,29 @@ h1 h3 {float: left;}
 	margin-bottom: 30px;
 	color: rgb(171,182,186);
 }
+
+.articles {
+	padding-top: 22px;
+	margin: 0;
+}
+
+.wells {
+	height: 40px;
+	background-color: #f9fbfa;
+	border-top: 1px solid rgba(204, 230, 255, 0.6);
+	border-bottom: 1px solid rgba(204, 230, 255, 0.6);
+	margin-top: 22px;
+}
+
+.last_title {
+	text-align: center;
+	height: 75px;
+	padding-top: 31px;
+	font-weight: normal;
+}
+
+.footer {
+	background-color: #f9fbfa;
+	border-top: 1px solid rgba(204, 230, 255, 0.6);
+	border-bottom: 1px solid rgba(204, 230, 255, 0.6);
+}

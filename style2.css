@@ -203,6 +203,7 @@ h1 h3 {float: left;}
 }
 
 .footer {
+	display: flex;
 	background-color: #f9fbfa;
 	border-top: 1px solid rgba(204, 230, 255, 0.6);
 	height: 235px;
@@ -216,8 +217,7 @@ h1 h3 {float: left;}
 }
 
 .cols {
-	width: 24%;
-	display: inline-block;
+	width: 25%;
 	padding-left: 2%;
 	vertical-align: top;
 }
